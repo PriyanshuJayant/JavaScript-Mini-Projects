@@ -10,7 +10,6 @@ A collection of mini projects built using HTML, CSS, and JavaScript. These proje
 A fun little app to check your "love percentage" with someone — purely for entertainment!  
 🔗 [Live Demo](https://love-calculator-two-mu.vercel.app/)
 
-<img src="https://raw.githubusercontent.com/yourusername/assets/main/love-calculator-preview.png" alt="Love Calculator Preview" width="500"/>
 
 ---
 
@@ -18,7 +17,6 @@ A fun little app to check your "love percentage" with someone — purely for ent
 An interactive Body Mass Index calculator to determine fitness levels based on weight and height.  
 🔗 [Live Demo](https://bmi-calculator-lime-ten.vercel.app/)
 
-<img src="https://raw.githubusercontent.com/yourusername/assets/main/bmi-calculator-preview.png" alt="BMI Calculator Preview" width="500"/>
 
 ---
 
