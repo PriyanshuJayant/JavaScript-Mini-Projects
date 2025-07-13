@@ -1,0 +1,5 @@
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+100582c89b76e42aa9dfdd31506bac65
+
+https://api.openweathermap.org/data/2.5/weather?q=delhi&appid=100582c89b76e42aa9dfdd31506bac65&units=metric
