@@ -2,5 +2,5 @@
 .vscode
 ./vscode
 
-./desktop.ini
 desktop.ini
+**/desktop.ini
