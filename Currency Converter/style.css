@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+
+}
+.container{
+    border: 2px solid rgba(0, 0, 0, 0.146);
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 2rem;
+    /* height: 45vh; */
+    width: 20vw;
+    padding: 2.5rem;
+    border-radius: 16px;
+    /* min- */
+}
+.dropdown, button , .amount{
+    margin-top: 1.7rem;
+    margin-bottom: 1.7rem;
+    width: 18vw;
+}
+input{
+    width:70%;
+    height: 2rem;
+    border-radius: 10px;
+    border-color: rgba(128, 128, 128, 0.27);
+}
+input[value="100"]{
+    padding-left: 2rem;
+}
+button{
+    height: 2rem;
+    width: 70%;
+    border-radius: 10px;
+    border: none;
+}
+h2{
+    
+}
