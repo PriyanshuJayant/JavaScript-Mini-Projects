@@ -14,21 +14,21 @@ A fun little app to check your "love percentage" with someone — purely for ent
 An interactive Body Mass Index calculator to determine fitness levels based on weight and height.  
 🔗 [Live Demo](https://bmi-calculator-lime-ten.vercel.app/)
 
----
+### 🧮 BMI Calculator (Alt Version)  
+A variation of the BMI calculator with a different design or feature set.  
+🔗 [Live Demo](https://bmi-calculator-delta-inky.vercel.app/)
 
-### 📋 Additional Projects List
+### 💰 Loan Calculator  
+Calculate monthly payments and interest for a loan based on amount, interest rate, and duration.  
+🔗 [Live Demo](https://loan-calculator-smoky-three.vercel.app/)
 
-1. **BMI Calculator**  
-   🔗 https://bmi-calculator-delta-inky.vercel.app/
+### 💖 Love Calculator (Alt Version)  
+Another fun version of the love compatibility calculator.  
+🔗 [Live Demo](https://love-calculator-zeta-swart.vercel.app/)
 
-2. **Loan Calculator**  
-   🔗 https://loan-calculator-smoky-three.vercel.app/
-
-3. **Love Calculator**  
-   🔗 https://love-calculator-zeta-swart.vercel.app/
-
-4. **Weather App**  
-   🔗 https://weather-app-coral-nine-13.vercel.app/
+### 🌤️ Weather App  
+Check the current weather for any city using real-time data from a weather API.  
+🔗 [Live Demo](https://weather-app-coral-nine-13.vercel.app/)
 
 ---
 
