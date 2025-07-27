@@ -1,7 +1,7 @@
 'use strict';
 
 let secretNumber = Math.trunc(Math.random() * 10) + 1;
-const num = document.querySelector('.number').innerHTML = secretNumber;
+
 let score = 10;
 
 const button = document.querySelector('.check').addEventListener('click', function () {
