@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Counter Application</title>
+        <link rel="stylesheet" href="style.css" />
+        <script defer src="index.js"></script>
+    </head>
+    <body>
+        <main class="page">
+            <section class="card" aria-labelledby="counter-title">
+                <h1 id="counter-title" class="title">Counter Application</h1>
+
+                <div class="display" role="status" aria-live="polite">
+                    <span id="value" class="value">0</span>
+                </div>
+
+                <div class="controls">
+                    <button class="btn btn-primary" id="increase" aria-label="increase">+</button>
+                    <button class="btn btn-primary" id="decrease" aria-label="decrease">-</button>
+                </div>
+
+                <button class="btn btn-reset" id="reset">Reset</button>
+
+                <div class="meta"></div>
+            </section>
+        </main>
+    </body>
+</html>
